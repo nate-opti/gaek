@@ -71,6 +71,11 @@ Environment module
 Contributing
 ------------------
 
+General:
+* style, procedure, etc
+
+Local development setup:
+
 Development and running the tests require the GAE Python SDK, in addition to the Python (pip) dependencies.
 
 To set this up on Linux or Mac OSX, you can either read and re-create the Travis
