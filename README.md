@@ -72,11 +72,11 @@ Contributing
 ------------------
 
 **General guidelines**
-* If you'd like to contribute, feel free to fork the repo, make changes, and submit a pull request.
+If you'd like to contribute, feel free to fork the repo, make changes, and submit a pull request.
 
-**Local development setup**
+**Development environment setup**
 
-We suggest always verifying the integrity of software packages you install, downloading over SSL when possible.
+Note: we suggest always verifying the integrity of software packages you install, downloading over SSL when possible.
 
 Development and running the tests require the GAE Python SDK, in addition to the Python (pip) dependencies.
 
