@@ -79,4 +79,4 @@ install as follows:
 * Download the latest GAE SDK for Python .zip file ('Linux/Other Platforms')
 [from Google](https://cloud.google.com/appengine/downloads)
 * Unzip it in your local `gaek/` directory, so you then have a `gaek/google_appengine/` directory
-* Create a symlink to the appengine source in the gaek/ directory: `ln -s google_appengine/google google`
+* From your `gaek/` directory, symlink the appengine source: `$ ln -s google_appengine/google google`
