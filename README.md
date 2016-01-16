@@ -72,10 +72,10 @@ Contributing
 ------------------
 
 Development and running the tests require the GAE Python SDK, in addition to the pip dependencies.
-To set this up, you can either:
-* (1) follow the Travis [build steps](https://github.com/erichiggins/gaek/blob/master/.travis.yml) in your dev directory,
-or
-* (2) install as follows:
+
+To set this up, you can either follow the Travis
+[build steps](https://github.com/erichiggins/gaek/blob/master/.travis.yml) in your dev directory, or
+install as follows:
 * Download the latest Python SDK for your system [from Google](https://cloud.google.com/appengine/downloads)
 * Unzip into the `gaek/` directory, so you have a `gaek/google_appengine/` directory
 * Create a symlink to the appengine source: `ln -s google_appengine/google google`
