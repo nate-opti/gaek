@@ -71,11 +71,10 @@ Environment module
 Contributing
 ------------------
 
-**General guidelines**
+**General guidelines**  
 If you'd like to contribute, feel free to fork the repo, make changes, and submit a pull request.
 
 **Development environment setup**
-
 Note: we suggest always verifying the integrity of software packages you install, downloading over SSL when possible.
 
 Development and running the tests require the GAE Python SDK, in addition to the Python (pip) dependencies.
