@@ -9,6 +9,12 @@ A collection of useful tools for Python apps running on Google App Engine.
 * Free software: BSD license
 * Documentation: http://erichiggins.github.io/gaek/
 
+## Table of contents
+
+* [NBD JSON module](#ndb-json-module)
+* [Environment module](#environment-module)
+* [Contributing](#contributing)
+
 NDB JSON module
 ---------------
 
@@ -62,3 +68,7 @@ Environment module
    True if the current or specified app version is the default.
 
 
+Contributing
+------------------
+
+* test

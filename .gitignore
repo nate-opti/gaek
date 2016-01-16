@@ -61,3 +61,6 @@ google
 google/
 google_appengine/
 google_appengine_*.zip
+
+# IDE config
+*.idea
